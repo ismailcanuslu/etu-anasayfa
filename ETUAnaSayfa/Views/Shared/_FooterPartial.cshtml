@@ -1,0 +1,76 @@
+<footer class="footer">
+    <div class="footer-content">
+        <div>
+            <h3>Genel</h3>
+            <ul>
+                <li><a href="#">Kurumsal</a></li>
+                <li><a href="#">Fakülteler</a></li>
+                <li><a href="#">Enstitüler</a></li>
+                <li><a href="#">Yüksekokullar</a></li>
+                <li><a href="#">Araştırma Merkezleri</a></li>
+                <li><a href="#">Mezun</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3>Hızlı Erişim</h3>
+            <ul>
+                <li><a href="#">ÜBYS</a></li>
+                <li><a href="#">Tanıtım Kataloğu</a></li>
+                <li><a href="#">Kablosuz Internet (Eduroam)</a></li>
+                <li><a href="#">Destek Hizmetleri</a></li>
+                <li><a href="#">Hesap Yönetimi (EtuKimlik)</a></li>
+                <li><a href="#">ETÜ Yemek Listesi</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3>Yardımcı Bağlantılar</h3>
+            <ul>
+                <li><a href="#">Öğrenci Konseyi</a></li>
+                <li><a href="#">ÖSYM</a></li>
+                <li><a href="#">YÖK</a></li>
+                <li><a href="#">Web of Science</a></li>
+                <li><a href="#">KYK</a></li>
+                <li><a href="#">Ders Bilgi Paketleri</a></li>
+            </ul>
+        </div>
+        <div class="footer-logo-section">
+            <img src="https://erzurum.edu.tr/static/media/footer@logo.png" alt="Erzurum Teknik Üniversitesi">
+            <div class="footer-contact-info">
+                <p>bilgi@erzurum.edu.tr</p>
+                <p>etu@hs01.kep.tr</p>
+                <p>Ömer Nasuhi Bilmen Mah.Farabi Bulvarı No:12 Yakutiye/ERZURUM</p>
+                <p>Yakutiye/Erzurum</p>
+                <p>444 5 388</p>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>&copy; 2025 Erzurum Teknik Üniversitesi - Tüm hakları saklıdır.</p>
+    </div>
+</footer>
+
+<!-- Yukarı Çık Butonu -->
+<a href="#" class="scroll-to-top">
+    <i class="fas fa-chevron-up"></i>
+</a>
+
+<script>
+    // Yukarı çıkma butonu için scroll eventi
+    window.addEventListener('scroll', function () {
+        const scrollButton = document.querySelector('.scroll-to-top');
+        if (window.pageYOffset > 300) {
+            scrollButton.classList.add('visible');
+        } else {
+            scrollButton.classList.remove('visible');
+        }
+    });
+
+    // Yukarı çıkma butonuna tıklandığında
+    document.querySelector('.scroll-to-top').addEventListener('click', function (e) {
+        e.preventDefault();
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+</script>

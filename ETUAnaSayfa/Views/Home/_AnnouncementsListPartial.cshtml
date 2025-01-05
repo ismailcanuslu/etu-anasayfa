@@ -1,0 +1,20 @@
+@model ETUAnaSayfa.ViewModels.HomeViewModel
+
+@foreach (var announcement in Model.Announcements)
+{
+    <div class="announcement-item">
+    <div class="announcement-date">
+        <div class="date-wrapper">
+            <i class="far fa-calendar-alt calendar-icon"></i>
+            <div class="date-text">
+                <span class="date-number">@announcement.Date.Day</span>
+                <span class="date-month">@announcement.Date.ToString("MMM")</span>
+            </div>
+        </div>
+    </div>
+    <div class="announcement-content">
+        <h3>@announcement.Title</h3>
+        <p>@announcement.Text</p>
+    </div>
+</div>
+}

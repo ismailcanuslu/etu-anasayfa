@@ -1,0 +1,73 @@
+﻿@model ETUAnaSayfa.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Erzurum Teknik Üniversitesi";
+    Layout = "_Layout";
+}
+
+<partial name="_SliderPartial" />
+<partial name="_EventsPartial" />
+<partial name="_NewsPartial" />
+<partial name="_QuickAccessAnnouncementsPartial" model="Model" />
+<partial name="_University" />
+<partial name="_EtuWithNumbers" />
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Duyurular için sayfalama
+            $(document).on('click', '.pagination-link', function (e) {
+                e.preventDefault();
+                const pageNumber = $(this).data('page');
+
+                $.ajax({
+                    url: '/Home/GetPaginatedAnnouncements',
+                    type: 'GET',
+                    data: { pageNumber: pageNumber, pageSize: 3 },
+                    success: function (response) {
+                        $('#announcements-list').html(response);
+                        $('.pagination-link').removeClass('active');
+                        $(`.pagination-link[data-page="${pageNumber}"]`).addClass('active');
+                    }
+                });
+            });
+
+            // Hızlı erişim için sayfalama
+            $('.quick-links .pagination a').click(function (e) {
+                e.preventDefault();
+                const pageNumber = $(this).text();
+
+                // Aktif sayfa stilini güncelle
+                $('.quick-links .pagination a').removeClass('active');
+                $(this).addClass('active');
+
+                // Sayfaları gizle/göster
+                $('.quick-links-page').removeClass('active');
+                $(`.quick-links-page:eq(${pageNumber - 1})`).addClass('active');
+            });
+
+            // Video oynatma işlemleri
+            $('.video-container').each(function() {
+                const container = $(this);
+                const placeholder = container.find('.video-placeholder');
+                const iframe = container.find('iframe');
+                const playButton = container.find('.play-button');
+
+                // Başlangıçta iframe'i gizle
+                iframe.hide();
+
+                // Play butonuna tıklandığında
+                playButton.click(function() {
+                    // Placeholder'ı gizle
+                    placeholder.fadeOut();
+                    
+                    // iframe'i göster
+                    iframe.fadeIn();
+                    
+                    // Video URL'sine autoplay parametresi ekle
+                    const videoSrc = iframe.attr('src');
+                    iframe.attr('src', videoSrc + '&autoplay=1');
+                });
+            });
+        });
+    </script>
+}

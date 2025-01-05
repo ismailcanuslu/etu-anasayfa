@@ -1,0 +1,19 @@
+@model ETUAnaSayfa.ViewModels.HomeViewModel
+
+<section class="news-section">
+    <div class="news-container">
+        <h2 class="section-title">HABERLER</h2>
+        <div class="news-grid">
+            @foreach (var newsItem in Model.News)
+            {
+            <div class="news-item">
+                <img src="@newsItem.CoverImgPath"
+                     alt="@newsItem.Title" class="news-image">
+                <div class="news-content">
+                    <h3>@newsItem.Title</h3>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</section>

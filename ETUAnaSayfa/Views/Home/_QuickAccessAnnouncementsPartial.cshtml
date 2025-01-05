@@ -1,0 +1,170 @@
+@model ETUAnaSayfa.ViewModels.HomeViewModel
+<section class="quick-access-section">
+    <div class="quick-access-container">
+        <!-- Sol Kolon: Duyurular -->
+        <div class="announcements">
+            <h2 class="section-title">DUYURULAR</h2>
+
+            <!-- Duyurular Listesi -->
+            <div id="announcements-list">
+                <partial name="_AnnouncementsListPartial" model="Model" />
+            </div>
+
+            <!-- Sayfalama -->
+            <div class="pagination">
+                @for (var i = 1; i <= 3; i++)
+                {
+                    <a href="javascript:void(0)" class="pagination-link @(i == 1 ? "active" : "")" data-page="@i">@i</a>
+                }
+            </div>
+        </div>
+
+        <!-- Sağ Kolon: Hızlı Erişim -->
+        <div class="quick-links">
+            <h2 class="section-title">HIZLI ERİŞİM</h2>
+            <div class="quick-links-grid">
+                <!-- Sayfa 1 -->
+                <div class="quick-links-page active">
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-user-graduate"></i>
+                        <h3>Aday Öğrenci</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-clipboard-check"></i>
+                        <h3>KARPAM</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-university"></i>
+                        <h3>ETÜYÖM</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-book"></i>
+                        <h3>Kütüphane</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-microscope"></i>
+                        <h3>UZEM</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-tools"></i>
+                        <h3>YÜTAM</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-book-reader"></i>
+                        <h3>Ders Bilgi Paketleri</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-tree"></i>
+                        <h3>Mucit Park</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-building"></i>
+                        <h3>ETÜ-Kristal</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-atom"></i>
+                        <h3>ETÜSEM</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-home"></i>
+                        <h3>Konuk Evi</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-globe"></i>
+                        <h3>Dış İlişkiler Ofisi</h3>
+                    </a>
+                </div>
+                <!-- Sayfa 2 -->
+                <div class="quick-links-page">
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-check-circle"></i>
+                        <h3>Kalite Komisyonu</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-utensils"></i>
+                        <h3>Yemek Listesi</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-wheelchair"></i>
+                        <h3>Engelli Öğrenci Birimi</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-laptop"></i>
+                        <h3>ESAM</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-hands-helping"></i>
+                        <h3>Destek</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-question-circle"></i>
+                        <h3>SSS</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-desktop"></i>
+                        <h3>YUTSIS</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-hand-holding-usd"></i>
+                        <h3>Burs Başvuru Sistemi</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-id-card"></i>
+                        <h3>Mezun Kart</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-user-graduate"></i>
+                        <h3>Mezun Sistemi</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-chalkboard"></i>
+                        <h3>Moodle</h3>
+                    </a>
+                    <a href="#" class="quick-link-item">
+                        <i class="fas fa-university"></i>
+                        <h3>Açık Erişim Sistemi</h3>
+                    </a>
+                </div>
+            </div>
+            <div class="pagination">
+                <a href="javascript:void(0)" class="active">1</a>
+                <a href="javascript:void(0)">2</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    $(document).ready(function () {
+        // Duyurular için sayfalama
+        $(document).on('click', '.pagination-link', function (e) {
+            e.preventDefault();
+            const pageNumber = $(this).data('page');
+
+            $.ajax({
+                url: '/Home/GetPaginatedAnnouncements',
+                type: 'GET',
+                data: { pageNumber: pageNumber, pageSize: 3 },
+                success: function (response) {
+                    $('#announcements-list').html(response);
+                    $('.pagination-link').removeClass('active');
+                    $(`.pagination-link[data-page="${pageNumber}"]`).addClass('active');
+                }
+            });
+        });
+
+        // Hızlı erişim için sayfalama
+        $('.quick-links .pagination a').click(function (e) {
+            e.preventDefault();
+            const pageNumber = $(this).text();
+
+            // Aktif sayfa stilini güncelle
+            $('.quick-links .pagination a').removeClass('active');
+            $(this).addClass('active');
+
+            // Sayfaları gizle/göster
+            $('.quick-links-page').removeClass('active');
+            $('.quick-links-page').eq(pageNumber - 1).addClass('active');
+        });
+    });
+</script>

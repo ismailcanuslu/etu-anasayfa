@@ -1,0 +1,35 @@
+@model ETUAnaSayfa.ViewModels.HomeViewModel
+
+<section class="university-section">
+    <div class="university-title-container">
+        <h2 class="university-title">ÜNİVERSİTEMİZ</h2>
+    </div>
+    <div id="university-content">
+        <div class="container">
+            <div class="university-grid">
+                @foreach (var video in Model.Videos)
+                {
+                <div class="news-item">
+                    <div class="video-container" data-video-id="@video.VideoId">
+                        <iframe src="https://www.youtube.com/embed/@video.VideoId?rel=0&modestbranding=1"
+                                title="@video.Title"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen loading="lazy" class="youtube-iframe">
+                        </iframe>
+                        <div class="video-placeholder">
+                            <img src="https://img.youtube.com/vi/@video.VideoId/hqdefault.jpg"
+                                 alt="@video.Title">
+                            <div class="play-button">
+                                <i class="fas fa-play"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-content">
+                        <h3>@video.Title</h3>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>

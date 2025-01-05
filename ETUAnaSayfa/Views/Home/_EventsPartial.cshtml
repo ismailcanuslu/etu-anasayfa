@@ -1,0 +1,86 @@
+@model ETUAnaSayfa.ViewModels.HomeViewModel
+
+<section class="events-section">
+    <div class="events-container">
+        <h2 class="section-title">ETKİNLİKLER</h2>
+
+        <!-- Desktop View -->
+        <div class="events-grid d-none d-sm-grid">
+            @for (int i = 0; i < Model.Events.Count(); i++)
+            {
+                var eventItem = Model.Events.ElementAt(i);
+                <div class="event-item @(eventItem.IsPinned ? "pinned" : "")">
+                    @if (eventItem.IsPinned)
+                    {
+                        <div class="pinned-badge">
+                            <i class="fas fa-thumbtack"></i>
+                        </div>
+                    }
+                    <div class="event-image-container">
+                        <img src="@eventItem.ImgPath" alt="@eventItem.Title" class="event-image">
+                    </div>
+                    <div class="event-content">
+                        <h4 class="event-title">@eventItem.Title</h4>
+                        <div class="event-info">
+                            <div class="event-date">
+                                <i class="far fa-calendar-alt"></i>
+                                @eventItem.Date.ToString("dd MMMM yyyy")
+                            </div>
+                            <div class="event-time">
+                                <i class="far fa-clock"></i>
+                                @eventItem.Date.ToString("HH:mm")
+                            </div>
+                            <div class="event-location">
+                                <i class="fas fa-map-marker-alt"></i>
+                                @eventItem.Location
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <!-- Mobile View with Swiper -->
+        <div class="swiper events-swiper d-block d-sm-none">
+            <div class="swiper-wrapper">
+                @for (int i = 0; i < Model.Events.Count(); i++)
+                {
+                    var eventItem = Model.Events.ElementAt(i);
+                    <div class="swiper-slide">
+                        <div class="event-item @(eventItem.IsPinned ? "pinned" : "")">
+                            @if (eventItem.IsPinned)
+                            {
+                                <div class="pinned-badge">
+                                    <i class="fas fa-thumbtack"></i>
+                                </div>
+                            }
+                            <div class="event-image-container">
+                                <img src="@eventItem.ImgPath" alt="@eventItem.Title" class="event-image">
+                            </div>
+                            <div class="event-content">
+                                <h4 class="event-title">@eventItem.Title</h4>
+                                <div class="event-info">
+                                    <div class="event-date">
+                                        <i class="far fa-calendar-alt"></i>
+                                        @eventItem.Date.ToString("dd MMMM yyyy")
+                                    </div>
+                                    <div class="event-time">
+                                        <i class="far fa-clock"></i>
+                                        @eventItem.Date.ToString("HH:mm")
+                                    </div>
+                                    <div class="event-location">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        @eventItem.Location
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </div>
+</section>
