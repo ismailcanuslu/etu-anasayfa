@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ETUAnaSayfa/css/contact.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\contact.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zxfdqQ3K6HsykkRrE\u002BJMA0\u002BJXCP0iVPzSyDU7fMHifA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4259"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zxfdqQ3K6HsykkRrE\u002BJMA0\u002BJXCP0iVPzSyDU7fMHifA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 12:11:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ETUAnaSayfa/css/contact.jrvs80803k.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\contact.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jrvs80803k"},{"Name":"integrity","Value":"sha256-zxfdqQ3K6HsykkRrE\u002BJMA0\u002BJXCP0iVPzSyDU7fMHifA="},{"Name":"label","Value":"_content/ETUAnaSayfa/css/contact.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4259"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zxfdqQ3K6HsykkRrE\u002BJMA0\u002BJXCP0iVPzSyDU7fMHifA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 12:11:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ETUAnaSayfa/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -35,6 +47,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 16:20:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ETUAnaSayfa/js/contact.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\contact.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uIcDITNOu2x3vbdtv1c9MbF3zM9p2T7uNrb5pAtCUfc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1370"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uIcDITNOu2x3vbdtv1c9MbF3zM9p2T7uNrb5pAtCUfc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 12:03:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ETUAnaSayfa/js/contact.svgp6osmdb.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\contact.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"svgp6osmdb"},{"Name":"integrity","Value":"sha256-uIcDITNOu2x3vbdtv1c9MbF3zM9p2T7uNrb5pAtCUfc="},{"Name":"label","Value":"_content/ETUAnaSayfa/js/contact.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1370"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uIcDITNOu2x3vbdtv1c9MbF3zM9p2T7uNrb5pAtCUfc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Jan 2025 12:03:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ETUAnaSayfa/js/site.fr7q2aak1r.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

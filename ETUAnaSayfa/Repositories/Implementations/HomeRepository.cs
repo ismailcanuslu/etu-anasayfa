@@ -78,4 +78,10 @@ public class HomeRepository : IHomeRepository
             OrderByDescending(e => e.ReleaseDate)
             .Take(5);
     }
+
+    public IQueryable<Contact> GetContactData()
+    {
+        return _context.Contacts
+            .Where(x => x.Id == 1);
+    }
 }

@@ -18,6 +18,10 @@ public class AppDbContext : DbContext
     public DbSet<Announcements> Announcements { get; set; }
     
     public DbSet<Videos> Videos { get; set; }
+    
+    public DbSet<Contact> Contacts { get; set; }
+    
+    public DbSet<ContactForm> ContactForms { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -92,6 +96,39 @@ public class AppDbContext : DbContext
             entity.Property(e => e.VideoId)
                 .IsRequired();
             entity.Property(e => e.ReleaseDate)
+                .IsRequired();
+        });
+
+        modelBuilder.Entity<Contact>(entity =>
+        {
+            entity.Property(e => e.Email)
+                .IsRequired()
+                .HasMaxLength(120);
+            entity.Property(e => e.Address)
+                .IsRequired()
+                .HasMaxLength(500);
+            entity.Property(e => e.Phone)
+                .IsRequired()
+                .HasMaxLength(100);
+            entity.Property(e => e.KepEmail)
+                .IsRequired()
+                .HasMaxLength(120);
+        });
+
+        modelBuilder.Entity<ContactForm>(entity =>
+        {
+            entity.Property(e => e.Email)
+                .IsRequired()
+                .HasMaxLength(120);
+            entity.Property(e => e.Message)
+                .IsRequired()
+                .HasMaxLength(2000);
+            entity.Property(e => e.IsRead)
+                .IsRequired();
+            entity.Property(e => e.Name)
+                .IsRequired()
+                .HasMaxLength(250);
+            entity.Property(e => e.Choices)
                 .IsRequired();
         });
 

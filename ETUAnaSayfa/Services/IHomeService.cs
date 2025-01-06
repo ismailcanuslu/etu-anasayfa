@@ -14,4 +14,6 @@ public interface IHomeService
     IQueryable<Announcements> GetPaginatedAnnouncements(int pageNumber, int pageSize);
     
     IQueryable<Videos> GetLast5Videos();
+
+    IQueryable<Contact> GetContactData();
 }

@@ -47,4 +47,12 @@ public class HomeController : Controller
         return PartialView("_AnnouncementsListPartial", viewModel);
     }
 
+    [HttpGet]
+    public IActionResult Contact()
+    {
+        var contactInformation = _homeService.GetContactData();
+        
+        return View("Contact", contactInformation);
+    }
+
 }

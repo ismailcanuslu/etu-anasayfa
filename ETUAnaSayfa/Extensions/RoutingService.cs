@@ -15,6 +15,12 @@ public static class RoutingService
                 pattern: "/Home/GetPaginatedAnnouncements",
                 defaults: new { controller = "Home", action = "GetPaginatedAnnouncements" });
             
+            endpoints.MapControllerRoute(
+                name: "HomeContact",
+                pattern: "/iletisim",
+                defaults: new { controller = "Home", action = "Contact" });
+            
+            
             return endpoints;
             
         }

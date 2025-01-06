@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ismailcanuslu/Desktop/NET Projects/ETUAnaSayfa/ETUAnaSayfa/ETUAnaSayfa.csproj": {}
+    "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/ETUAnaSayfa.csproj": {}
   },
   "projects": {
-    "/Users/ismailcanuslu/Desktop/NET Projects/ETUAnaSayfa/ETUAnaSayfa/ETUAnaSayfa.csproj": {
+    "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/ETUAnaSayfa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ismailcanuslu/Desktop/NET Projects/ETUAnaSayfa/ETUAnaSayfa/ETUAnaSayfa.csproj",
+        "projectUniqueName": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/ETUAnaSayfa.csproj",
         "projectName": "ETUAnaSayfa",
-        "projectPath": "/Users/ismailcanuslu/Desktop/NET Projects/ETUAnaSayfa/ETUAnaSayfa/ETUAnaSayfa.csproj",
+        "projectPath": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/ETUAnaSayfa.csproj",
         "packagesPath": "/Users/ismailcanuslu/.nuget/packages/",
-        "outputPath": "/Users/ismailcanuslu/Desktop/NET Projects/ETUAnaSayfa/ETUAnaSayfa/obj/",
+        "outputPath": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ismailcanuslu/.nuget/NuGet/NuGet.Config"

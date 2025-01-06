@@ -1,6 +1,7 @@
 
 using ETUAnaSayfa.Models.Home;
 using ETUAnaSayfa.Repositories;
+using NuGet.Protocol;
 
 namespace ETUAnaSayfa.Services.Implementations;
 
@@ -41,5 +42,10 @@ public class HomeService : IHomeService
     public IQueryable<Videos> GetLast5Videos()
     {
         return _homeRepository.GetLast5Videos();
+    }
+
+    public IQueryable<Contact> GetContactData()
+    {
+        return _homeRepository.GetContactData();
     }
 }
