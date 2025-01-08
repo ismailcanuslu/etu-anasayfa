@@ -1,0 +1,149 @@
+/* Hero Section */
+.strategic-page-hero {
+    background: linear-gradient(rgba(35, 86, 113, 0.9), rgba(35, 86, 113, 0.9)), url('/images/campus.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.strategic-page-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Breadcrumb */
+.strategic-breadcrumb-nav {
+    margin-bottom: 0;
+}
+
+.strategic-breadcrumb {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.strategic-breadcrumb li {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+.strategic-breadcrumb li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.strategic-breadcrumb li i {
+    margin: 0 10px;
+    font-size: 0.7rem;
+}
+
+/* Main Content */
+.strategic-content {
+    padding: 50px 0;
+}
+
+/* Info Section */
+.strategic-info {
+    width: 100%;
+    padding: 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.strategic-info p {
+    color: #666;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.strategic-info p:last-child {
+    margin-bottom: 0;
+}
+
+/* Container Fluid */
+.container-fluid {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Document Grid */
+.document-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.document-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.document-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.card-icon {
+    width: 60px;
+    height: 60px;
+    background: #235671;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card-icon i {
+    font-size: 24px;
+    color: #fff;
+}
+
+.document-card h3 {
+    color: #235671;
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+}
+
+.document-card p {
+    color: #666;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .document-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 576px) {
+    .document-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .document-card {
+        padding: 20px;
+    }
+}

@@ -1,0 +1,72 @@
+@{
+    ViewData["Title"] = "Akademik Takvim -";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/academic-calendar.css" asp-append-version="true" />
+}
+
+<!-- Hero Section -->
+<div class="calendar-page-hero">
+    <div class="container">
+        <h1>Akademik Takvim</h1>
+        <nav class="calendar-breadcrumb-nav">
+            <ol class="calendar-breadcrumb">
+                <li><a href="/">Ana Sayfa</a></li>
+                <li><i class="fas fa-chevron-right"></i></li>
+                <li><a href="#">Öğrenci</a></li>
+                <li><i class="fas fa-chevron-right"></i></li>
+                <li>Akademik Takvim</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="calendar-content">
+    <div class="container">
+        <!-- Akademik Takvim Kartları -->
+        <div class="calendar-cards row">
+            <!-- 2024-2025 Takvimi -->
+            <div class="col-md-6">
+                <div class="calendar-card active">
+                    <div class="card-header">
+                        <i class="fas fa-calendar"></i>
+                        <h2>2024-2025 Eğitim-Öğretim Yılı</h2>
+                        <span class="active-badge">
+                            <i class="fas fa-thumbtack"></i>
+                        </span>
+                    </div>
+                    <div class="card-content">
+                        <a href="https://erzurum.edu.tr/Content/etugeneldosyalar/7556170c-e1b6-4496-bab7-04cff11411b1.pdf"
+                            class="view-btn" target="_blank">
+                            <i class="fas fa-external-link-alt"></i>
+                            Takvimi Görüntüle
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2023-2024 Takvimi -->
+            <div class="col-md-6">
+                <div class="calendar-card">
+                    <div class="card-header">
+                        <i class="fas fa-calendar"></i>
+                        <h2>2023-2024 Eğitim-Öğretim Yılı</h2>
+                    </div>
+                    <div class="card-content">
+                        <a href="https://erzurum.edu.tr/Content/etugeneldosyalar/7cd7d5ea-1803-4489-9494-d120dbd1f730.pdf"
+                            class="view-btn" target="_blank">
+                            <i class="fas fa-external-link-alt"></i>
+                            Takvimi Görüntüle
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/academic-calendar.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,131 @@
+/* Hero Section */
+.location-page-hero {
+    background: linear-gradient(rgba(35, 86, 113, 0.9), rgba(35, 86, 113, 0.9)), url('/images/campus.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.location-page-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Breadcrumb */
+.location-breadcrumb-nav {
+    margin-bottom: 0;
+}
+
+.location-breadcrumb {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.location-breadcrumb li {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+.location-breadcrumb li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.location-breadcrumb li i {
+    margin: 0 10px;
+    font-size: 0.7rem;
+}
+
+/* Container Fluid */
+.container-fluid {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Map Container */
+.map-container {
+    background: #fff;
+    padding: 0;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.map-container iframe {
+    display: block;
+    width: 100%;
+    border: none;
+}
+
+/* Location Info */
+.location-info {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.address-card {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    max-width: 400px;
+}
+
+.address-card i {
+    font-size: 2.5rem;
+    color: #235671;
+    margin-bottom: 20px;
+}
+
+.address-card h3 {
+    color: #235671;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.address-card p {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .location-page-hero {
+        padding: 50px 0;
+    }
+
+    .location-page-hero h1 {
+        font-size: 2rem;
+    }
+
+    .map-container {
+        padding: 0;
+    }
+
+    .map-container iframe {
+        height: 500px;
+    }
+}
+
+@media (max-width: 576px) {
+    .map-container iframe {
+        height: 400px;
+    }
+
+    .address-card {
+        padding: 20px;
+    }
+}

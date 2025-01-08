@@ -5,16 +5,68 @@
       "PackagePath": "staticwebassets/ETUAnaSayfa.k5wnva30am.bundle.scp.css"
     },
     {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
+      "PackagePath": "staticwebassets/css/academic-calendar.css"
+    },
+    {
       "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/contact.css",
       "PackagePath": "staticwebassets/css/contact.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/corporate.css",
+      "PackagePath": "staticwebassets/css/corporate.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/history.css",
+      "PackagePath": "staticwebassets/css/history.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/kvkk.css",
+      "PackagePath": "staticwebassets/css/kvkk.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/location.css",
+      "PackagePath": "staticwebassets/css/location.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/management.css",
+      "PackagePath": "staticwebassets/css/management.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
+      "PackagePath": "staticwebassets/css/privacy.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/rectorate.css",
+      "PackagePath": "staticwebassets/css/rectorate.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/secretariat.css",
+      "PackagePath": "staticwebassets/css/secretariat.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/strategic.css",
+      "PackagePath": "staticwebassets/css/strategic.css"
     },
     {
       "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },
     {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/university-logo.css",
+      "PackagePath": "staticwebassets/css/university-logo.css"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/vision.css",
+      "PackagePath": "staticwebassets/css/vision.css"
+    },
+    {
       "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/academic-calendar.js",
+      "PackagePath": "staticwebassets/js/academic-calendar.js"
     },
     {
       "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/contact.js",

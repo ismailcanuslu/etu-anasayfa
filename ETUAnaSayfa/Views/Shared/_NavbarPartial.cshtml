@@ -5,7 +5,13 @@
                 <img src="https://erzurum.edu.tr/Content/images/A-1.png" alt="Akredite Logo" class="accreditation-logo">
                 <a href="/" class="main-logo">
                     <img src="https://static.erzurum.edu.tr/favicons/favicon.png" alt="ETÜ Logo">
-                    <span>Erzurum Teknik Üniversitesi</span>
+                    <div class="logo-text">
+                        <span>Erzurum Teknik Üniversitesi</span>
+                        @if (!string.IsNullOrEmpty(ViewBag.SubTitle))
+                        {
+                            <span class="faculty-name">@ViewBag.SubTitle</span>
+                        }
+                    </div>
                 </a>
             </div>
             <div class="nav-links">
@@ -15,32 +21,29 @@
                         <div class="dropdown-grid">
                             <div class="dropdown-column">
                                 <h3>Rektörlük</h3>
-                                <a href="#" class="dropdown-item">Rektörün Mesajı</a>
+                                <a href="/universitemiz/rektorun-mesaji" class="dropdown-item">Rektörün Mesajı</a>
                                 <h3 class="mt-4">ETÜ Galeri</h3>
                                 <a href="#" class="dropdown-item">Video Galerisi</a>
                                 <a href="#" class="dropdown-item">Fotoğraf Galerisi</a>
                             </div>
                             <div class="dropdown-column">
                                 <h3>Yönetim</h3>
-                                <a href="#" class="dropdown-item">Üst Yönetim</a>
-                                <a href="#" class="dropdown-item">Rektör Danışmanları</a>
-                                <a href="#" class="dropdown-item">Üniversite Senatosu</a>
-                                <a href="#" class="dropdown-item">Üniversite Yönetim Kurulu</a>
-                                <a href="#" class="dropdown-item">Genel Sekreterlik</a>
-                                <a href="#" class="dropdown-item">Özel Kalem Müdürlüğü</a>
-                                <a href="#" class="dropdown-item">İç Denetim</a>
+                                <a href="/universitemiz/yonetim" class="dropdown-item">Yönetim</a>
+                                <a href="/universitemiz/genel-sekreterlik" class="dropdown-item">Genel Sekreterlik</a>
+                                <a href="/universitemiz/ozel-kalem" class="dropdown-item">Özel Kalem Müdürlüğü</a>
+                                <a href="/universitemiz/ic-denetim" class="dropdown-item">İç Denetim</a>
                             </div>
                             <div class="dropdown-column">
                                 <h3>Kurumsal</h3>
-                                <a href="#" class="dropdown-item">Kurumsal Kimlik</a>
-                                <a href="#" class="dropdown-item">Vizyon ve Misyon</a>
-                                <a href="#" class="dropdown-item">KVKK</a>
-                                <a href="#" class="dropdown-item">Stratejik Plan</a>
-                                <a href="#" class="dropdown-item">Tarihçe</a>
-                                <a href="#" class="dropdown-item">Konum ve Yerleşke</a>
-                                <a href="#" class="dropdown-item">Kalite Komisyonu</a>
-                                <a href="#" class="dropdown-item">Üniversite Logosu</a>
-                                <a href="#" class="dropdown-item">Konuk Evi</a>
+                                <a href="/universitemiz/kurumsal-kimlik" class="dropdown-item">Kurumsal Kimlik</a>
+                                <a href="/universitemiz/vizyon-ve-misyon" class="dropdown-item">Vizyon ve Misyon</a>
+                                <a href="/universitemiz/kvkk" class="dropdown-item">KVKK</a>
+                                <a href="/universitemiz/stratejik-plan" class="dropdown-item">Stratejik Plan</a>
+                                <a href="/universitemiz/tarihce" class="dropdown-item">Tarihçe</a>
+                                <a href="/universitemiz/konum-ve-yerleske" class="dropdown-item">Konum ve Yerleşke</a>
+                                <a href="https://kalite.erzurum.edu.tr" class="dropdown-item">Kalite Komisyonu</a>
+                                <a href="/universitemiz/universite-logosu" class="dropdown-item">Üniversite Logosu</a>
+                                <a href="https://konukevi.erzurum.edu.tr" class="dropdown-item">Konuk Evi</a>
                             </div>
                         </div>
                     </div>

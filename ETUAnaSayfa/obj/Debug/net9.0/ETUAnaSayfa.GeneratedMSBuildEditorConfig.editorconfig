@@ -68,6 +68,54 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fVW5pdmVyc2l0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavStudent/AcademicCalendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2U3R1ZGVudC9BY2FkZW1pY0NhbGVuZGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/CorporateIdentity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9Db3Jwb3JhdGVJZGVudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/GeneralSecretariat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9HZW5lcmFsU2VjcmV0YXJpYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9IaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/Kvkk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9LdmtrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/LocationAndCampus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9Mb2NhdGlvbkFuZENhbXB1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/Management.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9NYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9Qcml2YWN5UG9saWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/RectorateMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9SZWN0b3JhdGVNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/StrategicPlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9TdHJhdGVnaWNQbGFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/UniversityLogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9Vbml2ZXJzaXR5TG9nby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/NavUniversity/VisionAndMission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmF2VW5pdmVyc2l0eS9WaXNpb25BbmRNaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

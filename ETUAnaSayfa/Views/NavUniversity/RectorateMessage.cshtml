@@ -1,0 +1,78 @@
+@{
+    ViewData["Title"] = "Rektörün Mesajı -";
+}
+
+<div class="rectorate-page-hero">
+    <div class="container">
+        <h1>Rektörün Mesajı</h1>
+        <nav aria-label="breadcrumb" class="rectorate-breadcrumb-nav">
+            <ol class="rectorate-breadcrumb">
+                <li class="rectorate-breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+                <li class="rectorate-breadcrumb-item separator">/</li>
+                <li class="rectorate-breadcrumb-item"><a href="#">Üniversitemiz</a></li>
+                <li class="rectorate-breadcrumb-item separator">/</li>
+                <li class="rectorate-breadcrumb-item active">Rektörün Mesajı</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<section class="rectorate-message-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="rectorate-profile">
+                    <div class="rectorate-image">
+                        <img src="https://placehold.co/400x500/3A7E9E/FFF?text=rector.jpg" alt="Rektör"
+                            class="img-fluid">
+                    </div>
+                    <div class="rectorate-info">
+                        <h2>Prof. Dr. Bülent ÇAKMAK</h2>
+                        <p class="position">Rektör</p>
+                        <div class="contact-details">
+                            <div class="contact-item">
+                                <i class="fas fa-envelope"></i>
+                                <span>rektor@erzurum.edu.tr</span>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-phone"></i>
+                                <span>0442 666 66 66</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="rectorate-message">
+                    <div class="message-content">
+                        <p>Erzurum Teknik Üniversitesi bilim ve teknolojide yenilikten, eğitim ve öğretimde kaliteden
+                            ödün vermeden, girişimci ve uluslararası bir üniversite olma vizyonuyla ülkesine katma değer
+                            üreten bir bilim yuvasıdır.</p>
+
+                        <p>Kurulduğu günden bu yana, bireysel, toplumsal ve evrensel değerlere saygılı, yaşadığı çevreye
+                            duyarlı, karşılaştığı sorunları çözme becerisine sahip, milletinin sahip olduğu değerlerden
+                            güç alan, yaşam boyu öğrenmeyi ilke edinen, sosyal sorumluluk bilincine sahip ve öz güveni
+                            yüksek bireyler yetiştirmeyi gaye edinen genç ve dinamik bir üniversitedir. Bu dinamizm ile
+                            üniversitemiz, gerçekleştirdiği uluslararası iş birlikleri ve geliştirdiği
+                            ulusal/uluslararası projeleriyle ülkemizin gelecek vizyonuna katkı sunmaya devam etmektedir.
+                        </p>
+
+                        <p><em>"Eğitim öğrenciye saygıyla başlar"</em> anlayışıyla öğrenci merkezli eğitimi önceleyen
+                            Erzurum Teknik Üniversitesi, nitelikli akademik kadrosu, güçlü altyapısı ve geniş kampüs
+                            olanaklarıyla ülkemizin yetişmiş insan kaynağı ihtiyacını karşılama sorumluluğuyla yenilik
+                            ve gelişimden hiçbir zaman ödün vermeden bilimsel, kültürel sportif ve sanatsal faaliyetleri
+                            ile öğrencilerini hayata hazırlamaya devam edecektir.</p>
+                    </div>
+                    <div class="signature">
+                        <p class="name">Prof. Dr. Bülent ÇAKMAK</p>
+                        <p class="title">Rektör</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/rectorate.css" asp-append-version="true" />
+}

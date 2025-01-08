@@ -1,8 +1,8 @@
 namespace ETUAnaSayfa.Services.Implementations;
 
-public class UniversityService
+public class NavUniversityService
 {
-    public UniversityService()
+    public NavUniversityService()
     {
         
     }

@@ -1,0 +1,281 @@
+/* Hero Section */
+.management-page-hero {
+    background: linear-gradient(rgba(35, 86, 113, 0.9), rgba(35, 86, 113, 0.9)), url('https://placehold.co/1920x1080/3A7E9E/FFF?text=campus.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    color: white;
+    margin-bottom: 0;
+}
+
+.management-page-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Breadcrumb */
+.management-breadcrumb-nav {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.management-breadcrumb {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    list-style: none;
+}
+
+.management-breadcrumb-item a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.management-breadcrumb-item a:hover {
+    color: #fff;
+}
+
+.management-breadcrumb-item.active {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.management-breadcrumb-item.separator {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Tabs */
+.management-tabs {
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.management-tabs .nav-tabs {
+    border: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.management-tabs .nav-link {
+    border: none;
+    color: #666;
+    font-weight: 500;
+    padding: 15px 25px;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.management-tabs .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #235671;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.management-tabs .nav-link:hover {
+    color: #235671;
+}
+
+.management-tabs .nav-link.active {
+    color: #235671;
+    background: transparent;
+}
+
+.management-tabs .nav-link.active::after {
+    transform: scaleX(1);
+}
+
+/* Content Section */
+.management-content {
+    padding: 50px 0;
+    background: #f8f9fa;
+}
+
+.management-content .container {
+    max-width: 1200px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+/* Rector Section */
+.rector-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rector-card {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Vice Rectors Section */
+.vice-rectors-section {
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vice-rectors-section .management-grid {
+    margin: 0 auto;
+    grid-template-columns: repeat(5, 1fr);
+    transform: scale(0.75);
+    transform-origin: top center;
+    width: 100%;
+}
+
+/* Other Members Section */
+.other-members-section {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.other-members-section .management-grid {
+    grid-template-columns: repeat(5, 1fr);
+    transform: scale(0.75);
+    transform-origin: top center;
+    width: 100%;
+}
+
+/* Board Section */
+#board .management-grid {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    grid-template-columns: repeat(5, 1fr);
+    transform: scale(0.75);
+    transform-origin: top center;
+}
+
+/* Section Headers */
+.section-header {
+    color: #235671;
+    text-align: center;
+    margin: 30px 0;
+    font-size: 1.5rem;
+}
+
+.management-grid {
+    display: grid;
+    gap: 30px;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.management-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.management-card:hover {
+    transform: translateY(-5px);
+}
+
+.card-image {
+    width: 100%;
+    position: relative;
+    padding-top: 125%;
+    /* 4:5 aspect ratio */
+    overflow: hidden;
+}
+
+.card-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 20px;
+    text-align: center;
+}
+
+.card-content h3 {
+    color: #235671;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+.card-content .position {
+    color: #666;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+
+    .rector-section,
+    .vice-rectors-section,
+    .other-members-section {
+        max-width: 90%;
+    }
+
+    .vice-rectors-section .management-grid,
+    .other-members-section .management-grid,
+    #board .management-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (max-width: 992px) {
+
+    .vice-rectors-section .management-grid,
+    .other-members-section .management-grid,
+    #board .management-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .management-content .container {
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .rector-section,
+    .vice-rectors-section,
+    .other-members-section,
+    #board .management-grid {
+        max-width: 100%;
+    }
+
+    .rector-card {
+        width: 250px;
+    }
+
+    .vice-rectors-section .management-grid,
+    .other-members-section .management-grid,
+    #board .management-grid {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px;
+    }
+
+    .management-content .container {
+        padding: 0 15px;
+    }
+}

@@ -691,3 +691,16 @@
 /Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/ref/ETUAnaSayfa.dll
 /Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/shmznhhzyj-svgp6osmdb.gz
 /Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/q8m4qsgg7l-jrvs80803k.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5bupg2ng2p-oytz6q2lk8.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/qkwmnwrxdp-itoh2u0xbr.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/8a23dnj0jz-y0jy4xat27.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/tep4tr2xvl-uuazy45cwm.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ywo0tpnmpg-tzewfygbbd.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ak4buoldft-fh35yqui6n.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/82hn2zcwgm-nd5cldtg77.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/muadt9t1gs-mr869y0j81.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wk4wt5gcvp-n2z7d6rkl8.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/84bbdr01q5-gdtp0nuwg9.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/4qh4drcdud-d68s4j0mal.gz
+/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz

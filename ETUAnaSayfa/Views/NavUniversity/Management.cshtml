@@ -1,0 +1,458 @@
+@{
+    ViewData["Title"] = "Yönetim -";
+}
+
+<div class="management-page-hero">
+    <div class="container">
+        <h1>Yönetim</h1>
+        <nav aria-label="breadcrumb" class="management-breadcrumb-nav">
+            <ol class="management-breadcrumb">
+                <li class="management-breadcrumb-item"><a href="/">Ana Sayfa</a></li>
+                <li class="management-breadcrumb-item separator">/</li>
+                <li class="management-breadcrumb-item"><a href="#">Üniversitemiz</a></li>
+                <li class="management-breadcrumb-item separator">/</li>
+                <li class="management-breadcrumb-item active">Yönetim</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="management-tabs">
+    <div class="container">
+        <ul class="nav nav-tabs" id="managementTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="top-management-tab" data-bs-toggle="tab"
+                    data-bs-target="#top-management" type="button">
+                    ÜST YÖNETİM
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="senate-tab" data-bs-toggle="tab" data-bs-target="#senate" type="button">
+                    SENATO
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="board-tab" data-bs-toggle="tab" data-bs-target="#board" type="button">
+                    YÖNETİM KURULU
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="advisors-tab" data-bs-toggle="tab" data-bs-target="#advisors"
+                    type="button">
+                    REKTÖR DANIŞMANLARI
+                </button>
+            </li>
+           
+        </ul>
+    </div>
+</div>
+
+<section class="management-content">
+    <div class="container">
+        <div class="tab-content" id="managementTabContent">
+            <!-- Üst Yönetim -->
+            <div class="tab-pane fade show active" id="top-management" role="tabpanel">
+                <!-- Rektör -->
+                <div class="rector-section">
+                    <div class="management-card rector-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör" alt="Rektör">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Bülent ÇAKMAK</h3>
+                            <p class="position">REKTÖR</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rektör Yardımcıları -->
+                <div class="vice-rectors-section">
+                    <div class="management-grid">
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör+Yrd"
+                                    alt="Rektör Yardımcısı">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ceren Sultan Elmalı</h3>
+                                <p class="position">REKTÖR YRD.</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör+Yrd"
+                                    alt="Rektör Yardımcısı">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ali Fatih Yetim</h3>
+                                <p class="position">REKTÖR YRD.</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör+Yrd"
+                                    alt="Rektör Yardımcısı">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Naim Ürkmez</h3>
+                                <p class="position">REKTÖR YRD.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Genel Sekreter -->
+                <div class="other-members-section">
+                    <div class="management-grid">
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Genel+Sekreter"
+                                    alt="Genel Sekreter">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ahmet Dumlu</h3>
+                                <p class="position">GENEL SEKRETER</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Senato -->
+            <div class="tab-pane fade" id="senate" role="tabpanel">
+                <!-- Rektör -->
+                <div class="rector-section">
+                    <div class="management-card rector-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör" alt="Rektör">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Bülent ÇAKMAK</h3>
+                            <p class="position">REKTÖR</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rektör Yardımcıları -->
+                <div class="vice-rectors-section">
+                    <div class="management-grid">
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör+Yrd"
+                                    alt="Rektör Yardımcısı">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ali Fatih Yetim</h3>
+                                <p class="position">REKTÖR YRD.</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör+Yrd"
+                                    alt="Rektör Yardımcısı">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ceren Sultan Elmalı</h3>
+                                <p class="position">REKTÖR YRD.</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör+Yrd"
+                                    alt="Rektör Yardımcısı">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Naim Ürkmez</h3>
+                                <p class="position">REKTÖR YRD.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dekanlar ve Diğer Üyeler -->
+                <div class="other-members-section">
+                    <div class="management-grid">
+                        <!-- Dekanlar -->
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Elanur Yılmaz Karabulutlu</h3>
+                                <p class="position">DEKAN</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Uğur Akbulut</h3>
+                                <p class="position">DEKAN</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ümit İncekara</h3>
+                                <p class="position">DEKAN</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Murat Demir Aydın</h3>
+                                <p class="position">DEKAN</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Hüseyin Daştan</h3>
+                                <p class="position">DEKAN</p>
+                            </div>
+                        </div>
+
+                        <!-- Diğer Üyeler -->
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Senatör" alt="Senatör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. İlker Kazaz</h3>
+                                <p class="position">SENATÖR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan+V" alt="Dekan Vekili">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Birol Soysal</h3>
+                                <p class="position">DEKAN V.</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Müdür" alt="Müdür">
+                            </div>
+                            <div class="card-content">
+                                <h3>Doç. Dr. Bünyamin Özgeriş</h3>
+                                <p class="position">MÜDÜR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Müdür" alt="Müdür">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Serap Bedir Kara</h3>
+                                <p class="position">MÜDÜR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Müdür" alt="Müdür">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ayşe Gürol</h3>
+                                <p class="position">MÜDÜR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Raportör" alt="Raportör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Ahmet Dumlu</h3>
+                                <p class="position">RAPORTÖR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Müdür" alt="Müdür">
+                            </div>
+                            <div class="card-content">
+                                <h3>Dr. Öğr. Üyesi Haticetül Kübra Er</h3>
+                                <p class="position">MÜDÜR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Senatör" alt="Senatör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Doç. Dr. Süleyman Ulupınar</h3>
+                                <p class="position">SENATÖR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Senatör" alt="Senatör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Doç. Dr. Elanur Aydın Karataş</h3>
+                                <p class="position">SENATÖR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Senatör" alt="Senatör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Doç. Dr. Uğur Uzunkaya</h3>
+                                <p class="position">SENATÖR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Senatör" alt="Senatör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Prof. Dr. Gürkan Çalmaşur</h3>
+                                <p class="position">SENATÖR</p>
+                            </div>
+                        </div>
+                        <div class="management-card">
+                            <div class="card-image">
+                                <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Senatör" alt="Senatör">
+                            </div>
+                            <div class="card-content">
+                                <h3>Dr. Öğr. Üyesi İzzet Ülker</h3>
+                                <p class="position">SENATÖR</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yönetim Kurulu -->
+            <div class="tab-pane fade" id="board" role="tabpanel">
+                <!-- Rektör -->
+                <div class="rector-section">
+                    <div class="management-card rector-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Rektör" alt="Rektör">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Bülent ÇAKMAK</h3>
+                            <p class="position">REKTÖR</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dekanlar ve Diğer Üyeler -->
+                <div class="management-grid">
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Hüseyin Daştan</h3>
+                            <p class="position">DEKAN</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Elanur Yılmaz Karabulutlu</h3>
+                            <p class="position">DEKAN</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Ümit İncekara</h3>
+                            <p class="position">DEKAN</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Uğur Akbulut</h3>
+                            <p class="position">DEKAN</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan" alt="Dekan">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Murat Demir Aydın</h3>
+                            <p class="position">DEKAN</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Dekan+V" alt="Dekan Vekili">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Birol Soysal</h3>
+                            <p class="position">DEKAN V.</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Üye" alt="Üye">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. İrfan Kaymaz</h3>
+                            <p class="position">ÜYE</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Üye" alt="Üye">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Yusuf Ziya Sümbüllü</h3>
+                            <p class="position">ÜYE</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Üye" alt="Üye">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Murat Küçükuğurlu</h3>
+                            <p class="position">ÜYE</p>
+                        </div>
+                    </div>
+                    <div class="management-card">
+                        <div class="card-image">
+                            <img src="https://placehold.co/400x500/3A7E9E/FFF?text=Raportör" alt="Raportör">
+                        </div>
+                        <div class="card-content">
+                            <h3>Prof. Dr. Ahmet Dumlu</h3>
+                            <p class="position">RAPORTÖR</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Rektör Danışmanları -->
+            <div class="tab-pane fade" id="advisors" role="tabpanel">
+                <div class="management-grid">
+                    <!-- Rektör danışmanları buraya eklenecek -->
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/management.css" asp-append-version="true" />
+}

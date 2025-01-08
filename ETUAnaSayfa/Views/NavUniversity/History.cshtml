@@ -1,0 +1,79 @@
+@{
+    ViewData["Title"] = "Tarihçe -";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/history.css" asp-append-version="true" />
+}
+
+<!-- Hero Section -->
+<div class="history-page-hero">
+    <div class="container">
+        <h1>Tarihçe</h1>
+        <nav class="history-breadcrumb-nav">
+            <ol class="history-breadcrumb">
+                <li><a href="/">Ana Sayfa</a></li>
+                <li><i class="fas fa-chevron-right"></i></li>
+                <li><a href="#">Üniversite</a></li>
+                <li><i class="fas fa-chevron-right"></i></li>
+                <li>Tarihçe</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="history-content">
+    <div class="container-fluid">
+        <div class="history-timeline">
+            <!-- Kuruluş -->
+            <div class="timeline-item">
+                <div class="timeline-date">
+                    <span>2010</span>
+                </div>
+                <div class="timeline-content">
+                    <h3>Kuruluş</h3>
+                    <p>Üniversitemiz, 21.07.2010 tarih ve 27648 sayılı kararla Erzurum'da ikinci devlet üniversitesi
+                        olarak 6 fakülte 3 enstitü 1 yüksekokul ile eğitim verecek şekilde kurulmuştur. 2010 yılında
+                        kurulan üniversitemiz ilk öğrencilerini 2012-2013 eğitim yılında almış olup ilk mezunlarını
+                        2015-2016 eğitim yılında vermiştir.</p>
+                </div>
+            </div>
+
+            <!-- Kampüs Gelişimi -->
+            <div class="timeline-item">
+                <div class="timeline-date">
+                    <span>2016-2017</span>
+                </div>
+                <div class="timeline-content">
+                    <h3>Kampüs Gelişimi</h3>
+                    <p>Yapılaşma faaliyetlerini hızla yürüten ETÜ, kampüs alanının büyük kısmını tamamlama çalışmalarına
+                        devam etmektedir. Havaalanı yolu üzerinde 4.000 dönüm alan üzerinde yükselen modern fakülte ve
+                        idari binalarımız yeni nesil üniversite örneği teşkil etmektedir.</p>
+                    <ul class="facility-list">
+                        <li><i class="fas fa-building"></i> 25.245 m² Mühendislik ve Mimarlık Fakültesi (2017)</li>
+                        <li><i class="fas fa-landmark"></i> 12.578 m² Rektörlük Binası (2016)</li>
+                        <li><i class="fas fa-flask"></i> 4700 m² YÜTAM Merkezi (2017)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Sosyal Tesisler -->
+            <div class="timeline-item">
+                <div class="timeline-date">
+                    <span>2017</span>
+                </div>
+                <div class="timeline-content">
+                    <h3>Sosyal Tesisler</h3>
+                    <p>Öğrencilerimizin barınma ve sosyal yaşam ihtiyaçlarına cevap vermek için:</p>
+                    <ul class="facility-list">
+                        <li><i class="fas fa-home"></i> 152 öğrenci kapasiteli kız öğrenci yurdu</li>
+                        <li><i class="fas fa-building"></i> 1500 kişilik KYK yurtları</li>
+                        <li><i class="fas fa-road"></i> 6.000 metre bisiklet ve yürüyüş yolu</li>
+                        <li><i class="fas fa-car"></i> 32 adet lojman</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

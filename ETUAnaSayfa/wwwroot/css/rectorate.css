@@ -1,0 +1,180 @@
+/* Hero Section */
+.rectorate-page-hero {
+    background: linear-gradient(rgba(35, 86, 113, 0.9), rgba(35, 86, 113, 0.9)), url('https://placehold.co/1920x1080/3A7E9E/FFF?text=campus.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.rectorate-page-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Breadcrumb */
+.rectorate-breadcrumb-nav {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.rectorate-breadcrumb {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    list-style: none;
+}
+
+.rectorate-breadcrumb-item a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.rectorate-breadcrumb-item a:hover {
+    color: #fff;
+}
+
+.rectorate-breadcrumb-item.active {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.rectorate-breadcrumb-item.separator {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Rectorate Profile Section */
+.rectorate-profile {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.rectorate-image {
+    width: 100%;
+    position: relative;
+}
+
+.rectorate-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.rectorate-info {
+    padding: 25px;
+    text-align: center;
+}
+
+.rectorate-info h2 {
+    color: #235671;
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+
+.rectorate-info .position {
+    color: #666;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.contact-details {
+    margin-top: 20px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.contact-item i {
+    color: #235671;
+    width: 20px;
+}
+
+/* Message Content */
+.rectorate-message {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.message-content {
+    color: #444;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.message-content p {
+    margin-bottom: 20px;
+}
+
+.message-content p:last-child {
+    margin-bottom: 30px;
+}
+
+.message-content em {
+    color: #235671;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.signature {
+    margin-top: 40px;
+    text-align: right;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+.signature .name {
+    color: #235671;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.signature .title {
+    color: #666;
+    font-size: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 991px) {
+    .rectorate-profile {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .rectorate-page-hero {
+        padding: 50px 0;
+    }
+
+    .rectorate-page-hero h1 {
+        font-size: 2rem;
+    }
+
+    .rectorate-message {
+        padding: 25px;
+    }
+}
+
+@media (max-width: 576px) {
+    .rectorate-info h2 {
+        font-size: 1.3rem;
+    }
+
+    .signature {
+        text-align: center;
+    }
+}

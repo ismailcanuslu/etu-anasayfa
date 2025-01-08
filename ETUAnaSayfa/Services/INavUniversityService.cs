@@ -1,6 +1,6 @@
 namespace ETUAnaSayfa.Services;
 
-public interface IUniversityService
+public interface INavUniversityService
 {
     
 }

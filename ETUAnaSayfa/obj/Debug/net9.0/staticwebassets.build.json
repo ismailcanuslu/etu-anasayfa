@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cR7WLUweRXeuIFrsw0jxP5T2SLN62ukAtTRSdgZkiAM=",
+  "Hash": "LZm1YKEimbcDwmTnAmzgimmJEZBC3XQ04ayKHYkZf8o=",
   "Source": "ETUAnaSayfa",
   "BasePath": "_content/ETUAnaSayfa",
   "Mode": "Default",
@@ -185,6 +185,27 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/jquery/dist/jquery.slim.min.js"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/4qh4drcdud-d68s4j0mal.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "js/academic-calendar#[.{fingerprint=d68s4j0mal}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/academic-calendar.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1e2wobkmco",
+      "Integrity": "50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/academic-calendar.js"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/52aiy8e0f0-ag7o75518u.gz",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -204,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5bupg2ng2p-oytz6q2lk8.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/rectorate#[.{fingerprint=oytz6q2lk8}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/rectorate.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n8fwnhu33b",
+      "Integrity": "JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/rectorate.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5e83gkk32y-iovd86k7lj.gz",
@@ -353,6 +395,48 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/82hn2zcwgm-nd5cldtg77.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/strategic#[.{fingerprint=nd5cldtg77}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/strategic.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2fphhpe3dm",
+      "Integrity": "7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/strategic.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/84bbdr01q5-gdtp0nuwg9.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/university-logo#[.{fingerprint=gdtp0nuwg9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/university-logo.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1jcz3j8cya",
+      "Integrity": "00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/university-logo.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/87x59z3ij5-nvvlpmu67g.gz",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -372,6 +456,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/8a23dnj0jz-y0jy4xat27.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/secretariat#[.{fingerprint=y0jy4xat27}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/secretariat.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "odxsngkybj",
+      "Integrity": "BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/secretariat.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/9sq0sfe9rw-b7pk76d08c.gz",
@@ -435,6 +540,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ak4buoldft-fh35yqui6n.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/kvkk#[.{fingerprint=fh35yqui6n}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/kvkk.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z2c1wl9vuw",
+      "Integrity": "a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/kvkk.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/b5jmeljrwg-dxx9fxp4il.gz",
@@ -836,6 +962,27 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/privacy#[.{fingerprint=kmqo4m0ynp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l8sk4hpj28",
+      "Integrity": "C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/le1tle8khb-r4e9w2rdcm.gz",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -897,6 +1044,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/muadt9t1gs-mr869y0j81.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/history#[.{fingerprint=mr869y0j81}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/history.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oaomo0jy6s",
+      "Integrity": "gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/history.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/mvvtpa6s5t-l3n5xuwxn8.gz",
@@ -1088,6 +1256,27 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/qkwmnwrxdp-itoh2u0xbr.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/management#[.{fingerprint=itoh2u0xbr}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/management.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lzmkmsgx53",
+      "Integrity": "Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/management.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/se0o5qp13f-jj8uyg4cgr.gz",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -1149,6 +1338,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/tep4tr2xvl-uuazy45cwm.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/corporate#[.{fingerprint=uuazy45cwm}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/corporate.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fw0ir8wjya",
+      "Integrity": "D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/corporate.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/uf9q3xrplx-ttgo8qnofa.gz",
@@ -1277,6 +1487,48 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/academic-calendar#[.{fingerprint=2uxbx2l17c}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p77chfy3ot",
+      "Integrity": "eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wk4wt5gcvp-n2z7d6rkl8.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/location#[.{fingerprint=n2z7d6rkl8}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/location.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "19ii8ygg9v",
+      "Integrity": "5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/location.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/x708bvun9k-47otxtyo56.gz",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -1403,6 +1655,27 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ywo0tpnmpg-tzewfygbbd.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/vision#[.{fingerprint=tzewfygbbd}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/vision.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mpaqandavy",
+      "Integrity": "ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/vision.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/scopedcss/bundle/ETUAnaSayfa.styles.css",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Computed",
@@ -1445,6 +1718,27 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/scopedcss/projectbundle/ETUAnaSayfa.bundle.scp.css"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/academic-calendar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2uxbx2l17c",
+      "Integrity": "9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/academic-calendar.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/contact.css",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -1464,6 +1758,195 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/contact.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/corporate.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/corporate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uuazy45cwm",
+      "Integrity": "tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/corporate.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/history.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/history#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mr869y0j81",
+      "Integrity": "Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/history.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/kvkk.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/kvkk#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fh35yqui6n",
+      "Integrity": "HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/kvkk.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/location.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/location#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2z7d6rkl8",
+      "Integrity": "T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/location.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/management.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/management#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "itoh2u0xbr",
+      "Integrity": "5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/management.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/privacy#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmqo4m0ynp",
+      "Integrity": "NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/privacy.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/rectorate.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/rectorate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oytz6q2lk8",
+      "Integrity": "kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/rectorate.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/secretariat.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/secretariat#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0jy4xat27",
+      "Integrity": "LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/secretariat.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/strategic.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/strategic#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nd5cldtg77",
+      "Integrity": "O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/strategic.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/style.css",
@@ -1487,6 +1970,48 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/university-logo.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/university-logo#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gdtp0nuwg9",
+      "Integrity": "9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/university-logo.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/vision.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/vision#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tzewfygbbd",
+      "Integrity": "F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/vision.css"
+    },
+    {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/favicon.ico",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
@@ -1506,6 +2031,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/academic-calendar.js",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "js/academic-calendar#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d68s4j0mal",
+      "Integrity": "ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/academic-calendar.js"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/contact.js",
@@ -2812,6 +3358,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/academic-calendar.2uxbx2l17c.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001293661061"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uxbx2l17c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/academic-calendar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+        }
+      ]
+    },
+    {
+      "Route": "css/academic-calendar.2uxbx2l17c.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uxbx2l17c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/academic-calendar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+        }
+      ]
+    },
+    {
+      "Route": "css/academic-calendar.2uxbx2l17c.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uxbx2l17c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/academic-calendar.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU="
+        }
+      ]
+    },
+    {
+      "Route": "css/academic-calendar.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001293661061"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+        }
+      ]
+    },
+    {
+      "Route": "css/academic-calendar.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+        }
+      ]
+    },
+    {
+      "Route": "css/academic-calendar.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU="
+        }
+      ]
+    },
+    {
       "Route": "css/contact.css",
       "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/q8m4qsgg7l-jrvs80803k.gz",
       "Selectors": [
@@ -3110,6 +3954,2688 @@
       ]
     },
     {
+      "Route": "css/corporate.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/tep4tr2xvl-uuazy45cwm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001179245283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:08:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/corporate.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/corporate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:08:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/corporate.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/tep4tr2xvl-uuazy45cwm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:08:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A="
+        }
+      ]
+    },
+    {
+      "Route": "css/corporate.uuazy45cwm.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/tep4tr2xvl-uuazy45cwm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001179245283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:08:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuazy45cwm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/corporate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/corporate.uuazy45cwm.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/corporate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:08:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuazy45cwm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/corporate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmMZUcmU4/opw20IjQs75XynZFbByVOLE5sdABjft3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/corporate.uuazy45cwm.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/tep4tr2xvl-uuazy45cwm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:08:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuazy45cwm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/corporate.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D7CwIqzM4zArK4Ukd/AT6hxCBQDTjjt3kqGmlT2mE8A="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/muadt9t1gs-mr869y0j81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001121076233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/history.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/muadt9t1gs-mr869y0j81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.mr869y0j81.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/muadt9t1gs-mr869y0j81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001121076233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mr869y0j81"
+        },
+        {
+          "Name": "label",
+          "Value": "css/history.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.mr869y0j81.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/history.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mr869y0j81"
+        },
+        {
+          "Name": "label",
+          "Value": "css/history.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hl1gNKLtIWC5viTbNVr8aAZDSFgEh5vRBmhIhgsf79o="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.mr869y0j81.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/muadt9t1gs-mr869y0j81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mr869y0j81"
+        },
+        {
+          "Name": "label",
+          "Value": "css/history.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBPQ1pNqbBTj79+ojjuadviqU4KC+fgb5qU0uO3K6BA="
+        }
+      ]
+    },
+    {
+      "Route": "css/kvkk.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ak4buoldft-fh35yqui6n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001273885350"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "784"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk="
+        }
+      ]
+    },
+    {
+      "Route": "css/kvkk.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/kvkk.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk="
+        }
+      ]
+    },
+    {
+      "Route": "css/kvkk.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ak4buoldft-fh35yqui6n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68="
+        }
+      ]
+    },
+    {
+      "Route": "css/kvkk.fh35yqui6n.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ak4buoldft-fh35yqui6n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001273885350"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "784"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fh35yqui6n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/kvkk.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk="
+        }
+      ]
+    },
+    {
+      "Route": "css/kvkk.fh35yqui6n.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/kvkk.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fh35yqui6n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/kvkk.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfUZNbPSWwv354enXWwF7nIvgOVH87NEqIdQ+MtCevk="
+        }
+      ]
+    },
+    {
+      "Route": "css/kvkk.fh35yqui6n.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ak4buoldft-fh35yqui6n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fh35yqui6n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/kvkk.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a9cjKaRFow0aOp8w9wgTt4D05fI3xX5pblsmKCXXm68="
+        }
+      ]
+    },
+    {
+      "Route": "css/location.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wk4wt5gcvp-n2z7d6rkl8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001406469761"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "710"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/location.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/location.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/location.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wk4wt5gcvp-n2z7d6rkl8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU="
+        }
+      ]
+    },
+    {
+      "Route": "css/location.n2z7d6rkl8.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wk4wt5gcvp-n2z7d6rkl8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001406469761"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "710"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2z7d6rkl8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/location.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/location.n2z7d6rkl8.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/location.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2z7d6rkl8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/location.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2IbOUsmrwU5nK4rv0IcFWLM3BT6T+yrrShWsn3t8Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/location.n2z7d6rkl8.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wk4wt5gcvp-n2z7d6rkl8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:07:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2z7d6rkl8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/location.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5fztfQh3Tbk4KJmdJZC2kmCcN2vYMmL4joqwlWSfMoU="
+        }
+      ]
+    },
+    {
+      "Route": "css/management.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/qkwmnwrxdp-itoh2u0xbr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000793650794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 13:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8="
+        }
+      ]
+    },
+    {
+      "Route": "css/management.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/management.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 13:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8="
+        }
+      ]
+    },
+    {
+      "Route": "css/management.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/qkwmnwrxdp-itoh2u0xbr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 13:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM="
+        }
+      ]
+    },
+    {
+      "Route": "css/management.itoh2u0xbr.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/qkwmnwrxdp-itoh2u0xbr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000793650794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 13:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "itoh2u0xbr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/management.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8="
+        }
+      ]
+    },
+    {
+      "Route": "css/management.itoh2u0xbr.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/management.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 13:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "itoh2u0xbr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/management.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5lGMYqPZUhx6KFbgN6vI/EgYp24Qo8Iev3KyBgmqav8="
+        }
+      ]
+    },
+    {
+      "Route": "css/management.itoh2u0xbr.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/qkwmnwrxdp-itoh2u0xbr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 13:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "itoh2u0xbr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/management.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ybd0w9Hv2kcut2eBdKfI52CknfRq9i5BScTujHb2aaM="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacy.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001269035533"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "787"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacy.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacy.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacy.kmqo4m0ynp.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001269035533"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "787"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmqo4m0ynp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/privacy.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacy.kmqo4m0ynp.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmqo4m0ynp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/privacy.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEcOSJ1kDiGMGFjhbATStkS4FcsOwddjFZucl5zU5/M="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacy.kmqo4m0ynp.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmqo4m0ynp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/privacy.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3yMK0SDCxPqKnTdyHO2sZxeTQcHjfgBwDe1/7iQ/Lo="
+        }
+      ]
+    },
+    {
+      "Route": "css/rectorate.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5bupg2ng2p-oytz6q2lk8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001098901099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 12:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo="
+        }
+      ]
+    },
+    {
+      "Route": "css/rectorate.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/rectorate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 12:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo="
+        }
+      ]
+    },
+    {
+      "Route": "css/rectorate.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5bupg2ng2p-oytz6q2lk8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 12:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/rectorate.oytz6q2lk8.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5bupg2ng2p-oytz6q2lk8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001098901099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 12:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oytz6q2lk8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/rectorate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo="
+        }
+      ]
+    },
+    {
+      "Route": "css/rectorate.oytz6q2lk8.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/rectorate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 12:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oytz6q2lk8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/rectorate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kK8qlBvQZYP2n5uBMCi47hZxREv20izb6uotl3YJgdo="
+        }
+      ]
+    },
+    {
+      "Route": "css/rectorate.oytz6q2lk8.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/5bupg2ng2p-oytz6q2lk8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 12:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oytz6q2lk8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/rectorate.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxCHD6Wr1v9+zyniiVRKk/dD6HlR3SMroslb9HTDggQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/secretariat.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/8a23dnj0jz-y0jy4xat27.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000318775901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3136"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/secretariat.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/secretariat.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/secretariat.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/8a23dnj0jz-y0jy4xat27.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA="
+        }
+      ]
+    },
+    {
+      "Route": "css/secretariat.y0jy4xat27.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/8a23dnj0jz-y0jy4xat27.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000318775901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3136"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0jy4xat27"
+        },
+        {
+          "Name": "label",
+          "Value": "css/secretariat.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/secretariat.y0jy4xat27.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/secretariat.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0jy4xat27"
+        },
+        {
+          "Name": "label",
+          "Value": "css/secretariat.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LuMP4jY/DQy+AHjs5dVWm4jAUhxq2v3XdXVWvHpU7JQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/secretariat.y0jy4xat27.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/8a23dnj0jz-y0jy4xat27.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0jy4xat27"
+        },
+        {
+          "Name": "label",
+          "Value": "css/secretariat.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPH6ek+XVt3sBwKVrB/P3Vf7emfBO9XCBuaH0m+hptA="
+        }
+      ]
+    },
+    {
+      "Route": "css/strategic.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/82hn2zcwgm-nd5cldtg77.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001199040767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "833"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g="
+        }
+      ]
+    },
+    {
+      "Route": "css/strategic.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/strategic.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g="
+        }
+      ]
+    },
+    {
+      "Route": "css/strategic.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/82hn2zcwgm-nd5cldtg77.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8="
+        }
+      ]
+    },
+    {
+      "Route": "css/strategic.nd5cldtg77.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/82hn2zcwgm-nd5cldtg77.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001199040767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "833"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nd5cldtg77"
+        },
+        {
+          "Name": "label",
+          "Value": "css/strategic.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g="
+        }
+      ]
+    },
+    {
+      "Route": "css/strategic.nd5cldtg77.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/strategic.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nd5cldtg77"
+        },
+        {
+          "Name": "label",
+          "Value": "css/strategic.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O//oCSVCEtcO5eVlxQBZkVLV0ncmvcVaWcmo43IcQ0g="
+        }
+      ]
+    },
+    {
+      "Route": "css/strategic.nd5cldtg77.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/82hn2zcwgm-nd5cldtg77.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nd5cldtg77"
+        },
+        {
+          "Name": "label",
+          "Value": "css/strategic.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7u98mzJ08ocdBy3Ugb1HtYlng73F3jov4ghdVrMhar8="
+        }
+      ]
+    },
+    {
       "Route": "css/style.css",
       "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/y393vkqiih-g9hmjlv4n5.gz",
       "Selectors": [
@@ -3404,6 +6930,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-khUQUKnTXwi3l0btNnKYuC2GCQhVeITdeP5RR7TsW4o="
+        }
+      ]
+    },
+    {
+      "Route": "css/university-logo.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/84bbdr01q5-gdtp0nuwg9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001086956522"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA="
+        }
+      ]
+    },
+    {
+      "Route": "css/university-logo.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/university-logo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA="
+        }
+      ]
+    },
+    {
+      "Route": "css/university-logo.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/84bbdr01q5-gdtp0nuwg9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw="
+        }
+      ]
+    },
+    {
+      "Route": "css/university-logo.gdtp0nuwg9.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/84bbdr01q5-gdtp0nuwg9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001086956522"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdtp0nuwg9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/university-logo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA="
+        }
+      ]
+    },
+    {
+      "Route": "css/university-logo.gdtp0nuwg9.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/university-logo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdtp0nuwg9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/university-logo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9PzGH0fxCepr9k4GXBsFB1Gcekpq9K5JZV/LTBoYQpA="
+        }
+      ]
+    },
+    {
+      "Route": "css/university-logo.gdtp0nuwg9.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/84bbdr01q5-gdtp0nuwg9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdtp0nuwg9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/university-logo.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-00ZCpgaa5qjPYvNgNbH8aAKEQUiWpG/0ONP8I2rm3Iw="
+        }
+      ]
+    },
+    {
+      "Route": "css/vision.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ywo0tpnmpg-tzewfygbbd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001158748552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/vision.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/vision.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/vision.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ywo0tpnmpg-tzewfygbbd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0="
+        }
+      ]
+    },
+    {
+      "Route": "css/vision.tzewfygbbd.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ywo0tpnmpg-tzewfygbbd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001158748552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzewfygbbd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/vision.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/vision.tzewfygbbd.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/vision.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzewfygbbd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/vision.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F/UxPMUglXTKQt4IFPS2F3Vr+eku1A09lYI9+bw0iOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/vision.tzewfygbbd.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/ywo0tpnmpg-tzewfygbbd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:13:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzewfygbbd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/vision.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ug7xhYZvfUkonKxQ0oH6rKLrwxuT+ChOFDD6Ing7EX0="
         }
       ]
     },
@@ -4298,6 +8420,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "js/academic-calendar.d68s4j0mal.js",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/4qh4drcdud-d68s4j0mal.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002898550725"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "344"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d68s4j0mal"
+        },
+        {
+          "Name": "label",
+          "Value": "js/academic-calendar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4="
+        }
+      ]
+    },
+    {
+      "Route": "js/academic-calendar.d68s4j0mal.js",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/academic-calendar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d68s4j0mal"
+        },
+        {
+          "Name": "label",
+          "Value": "js/academic-calendar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4="
+        }
+      ]
+    },
+    {
+      "Route": "js/academic-calendar.d68s4j0mal.js.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/4qh4drcdud-d68s4j0mal.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d68s4j0mal"
+        },
+        {
+          "Name": "label",
+          "Value": "js/academic-calendar.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA="
+        }
+      ]
+    },
+    {
+      "Route": "js/academic-calendar.js",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/4qh4drcdud-d68s4j0mal.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002898550725"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "344"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4="
+        }
+      ]
+    },
+    {
+      "Route": "js/academic-calendar.js",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/js/academic-calendar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZUhc0iBvKqYwp6+LU7LhLDjrZLp+aDDFoT04D+i+lZ4="
+        }
+      ]
+    },
+    {
+      "Route": "js/academic-calendar.js.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/4qh4drcdud-d68s4j0mal.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 21:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-50f6FvUZf3f+CATinyOqrQS2960rNiVd/ZULJDTSLJA="
         }
       ]
     },
