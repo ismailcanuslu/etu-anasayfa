@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Sayfa Bulunamadı -";
+}
+
+@section Styles {
+        <link rel="stylesheet" href="~/css/not-found.css" asp-append-version="true" />
+}
+
+<!-- Hero Section -->
+<div class="not-found-hero">
+    <div class="container">
+        <h1>404</h1>
+        <nav class="not-found-breadcrumb-nav">
+            <ol class="not-found-breadcrumb">
+                <li><a href="/">Ana Sayfa</a></li>
+                <li><i class="fas fa-chevron-right"></i></li>
+                <li>Sayfa Bulunamadı</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="not-found-content">
+    <div class="container">
+        <div class="not-found-card">
+            <div class="error-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <h2>Aradığınız Sayfa Bulunamadı</h2>
+            <p>Üzgünüz, aradığınız sayfaya ulaşılamıyor. Sayfa kaldırılmış, adı değiştirilmiş veya geçici olarak kullanım dışı olabilir.</p>
+            <div class="action-buttons">
+                <a href="/" class="btn-home">
+                    <i class="fas fa-home"></i>
+                    Ana Sayfaya Dön
+                </a>
+                <button onclick="history.back()" class="btn-back">
+                    <i class="fas fa-arrow-left"></i>
+                    Önceki Sayfaya Dön
+                </button>
+            </div>
+        </div>
+    </div>
+</div> 

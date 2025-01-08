@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LZm1YKEimbcDwmTnAmzgimmJEZBC3XQ04ayKHYkZf8o=",
+  "Hash": "A8KF2y6hohnk4DvCjiL88MzDBq25jdhSz5PIbxC6omo=",
   "Source": "ETUAnaSayfa",
   "BasePath": "_content/ETUAnaSayfa",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/3nrru1xcae-3qwrqxn16d.gz",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/not-found#[.{fingerprint=3qwrqxn16d}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/not-found.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "d3tdmvhpvt",
+      "Integrity": "idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/not-found.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/3so2zdx1km-ub07r2b239.gz",
@@ -1487,12 +1508,12 @@
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-bi6l814ipa.gz",
       "SourceId": "ETUAnaSayfa",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ETUAnaSayfa",
-      "RelativePath": "css/academic-calendar#[.{fingerprint=2uxbx2l17c}]?.css.gz",
+      "RelativePath": "css/academic-calendar#[.{fingerprint=bi6l814ipa}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1501,8 +1522,8 @@
       "RelatedAsset": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "p77chfy3ot",
-      "Integrity": "eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=",
+      "Fingerprint": "uhmzbrlo0e",
+      "Integrity": "ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css"
@@ -1732,8 +1753,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2uxbx2l17c",
-      "Integrity": "9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=",
+      "Fingerprint": "bi6l814ipa",
+      "Integrity": "M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/academic-calendar.css"
@@ -1863,6 +1884,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/management.css"
+    },
+    {
+      "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/not-found.css",
+      "SourceId": "ETUAnaSayfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/",
+      "BasePath": "_content/ETUAnaSayfa",
+      "RelativePath": "css/not-found#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3qwrqxn16d",
+      "Integrity": "lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/not-found.css"
     },
     {
       "Identity": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
@@ -3358,13 +3400,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/academic-calendar.2uxbx2l17c.css",
-      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Route": "css/academic-calendar.bi6l814ipa.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-bi6l814ipa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001293661061"
+          "Quality": "0.001312335958"
         }
       ],
       "ResponseHeaders": [
@@ -3374,15 +3416,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "772"
+          "Value": "761"
         },
         {
           "Name": "ETag",
-          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+          "Value": "\"ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+          "Value": "Tue, 07 Jan 2025 21:35:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3402,13 +3444,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+          "Value": "W/\"M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2uxbx2l17c"
+          "Value": "bi6l814ipa"
         },
         {
           "Name": "label",
@@ -3416,12 +3458,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+          "Value": "sha256-M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc="
         }
       ]
     },
     {
-      "Route": "css/academic-calendar.2uxbx2l17c.css",
+      "Route": "css/academic-calendar.bi6l814ipa.css",
       "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/academic-calendar.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3431,7 +3473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2344"
+          "Value": "2314"
         },
         {
           "Name": "Content-Type",
@@ -3439,11 +3481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+          "Value": "\"M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+          "Value": "Tue, 07 Jan 2025 21:35:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3453,7 +3495,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2uxbx2l17c"
+          "Value": "bi6l814ipa"
         },
         {
           "Name": "label",
@@ -3461,13 +3503,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+          "Value": "sha256-M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc="
         }
       ]
     },
     {
-      "Route": "css/academic-calendar.2uxbx2l17c.css.gz",
-      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "Route": "css/academic-calendar.bi6l814ipa.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-bi6l814ipa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3476,7 +3518,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "772"
+          "Value": "761"
         },
         {
           "Name": "Content-Type",
@@ -3484,11 +3526,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+          "Value": "\"ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+          "Value": "Tue, 07 Jan 2025 21:35:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3506,7 +3548,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2uxbx2l17c"
+          "Value": "bi6l814ipa"
         },
         {
           "Name": "label",
@@ -3514,18 +3556,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU="
+          "Value": "sha256-ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY="
         }
       ]
     },
     {
       "Route": "css/academic-calendar.css",
-      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-bi6l814ipa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001293661061"
+          "Quality": "0.001312335958"
         }
       ],
       "ResponseHeaders": [
@@ -3535,15 +3577,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "772"
+          "Value": "761"
         },
         {
           "Name": "ETag",
-          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+          "Value": "\"ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+          "Value": "Tue, 07 Jan 2025 21:35:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3563,13 +3605,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+          "Value": "W/\"M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+          "Value": "sha256-M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc="
         }
       ]
     },
@@ -3584,7 +3626,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2344"
+          "Value": "2314"
         },
         {
           "Name": "Content-Type",
@@ -3592,11 +3634,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk=\""
+          "Value": "\"M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+          "Value": "Tue, 07 Jan 2025 21:35:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3606,13 +3648,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9uZS+rYhJFTdjcSdpr4YRAfQjr9jpoiMvWzImX4bEzk="
+          "Value": "sha256-M4DUI7LwDi8PK2UunL6RE5DpCFGC5BvnvgJRr+2KfQc="
         }
       ]
     },
     {
       "Route": "css/academic-calendar.css.gz",
-      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-2uxbx2l17c.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/wg1wca53f6-bi6l814ipa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3621,7 +3663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "772"
+          "Value": "761"
         },
         {
           "Name": "Content-Type",
@@ -3629,11 +3671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU=\""
+          "Value": "\"ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 21:34:24 GMT"
+          "Value": "Tue, 07 Jan 2025 21:35:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3651,7 +3693,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eyP9WXACADz6acIH0vZqE16KpVDf4op62zwjyUKVrDU="
+          "Value": "sha256-ouNM5jr/Mwodn15dr4usVLttAMjP/+ClH6qh3Rj2fKY="
         }
       ]
     },
@@ -5444,6 +5486,304 @@
       ]
     },
     {
+      "Route": "css/not-found.3qwrqxn16d.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/3nrru1xcae-3qwrqxn16d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001132502831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qwrqxn16d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/not-found.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc="
+        }
+      ]
+    },
+    {
+      "Route": "css/not-found.3qwrqxn16d.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/not-found.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qwrqxn16d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/not-found.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc="
+        }
+      ]
+    },
+    {
+      "Route": "css/not-found.3qwrqxn16d.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/3nrru1xcae-3qwrqxn16d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qwrqxn16d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/not-found.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg="
+        }
+      ]
+    },
+    {
+      "Route": "css/not-found.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/3nrru1xcae-3qwrqxn16d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001132502831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc="
+        }
+      ]
+    },
+    {
+      "Route": "css/not-found.css",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/not-found.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lfMPCHIfosKWv1eboYhLAd42V92fKN137kxeIOfBfsc="
+        }
+      ]
+    },
+    {
+      "Route": "css/not-found.css.gz",
+      "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/3nrru1xcae-3qwrqxn16d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 14:48:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-idYOW1IbcPsYmoNWHu4Hl/8IY38omhGeDPgmepoktyg="
+        }
+      ]
+    },
+    {
       "Route": "css/privacy.css",
       "AssetFile": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/obj/Debug/net9.0/compressed/kzjejbq7hy-kmqo4m0ynp.gz",
       "Selectors": [
@@ -6064,7 +6404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+          "Value": "Wed, 08 Jan 2025 14:57:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6117,7 +6457,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+          "Value": "Wed, 08 Jan 2025 14:57:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6154,7 +6494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+          "Value": "Wed, 08 Jan 2025 14:57:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6201,7 +6541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+          "Value": "Wed, 08 Jan 2025 14:57:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6262,7 +6602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+          "Value": "Wed, 08 Jan 2025 14:57:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6307,7 +6647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jan 2025 19:42:48 GMT"
+          "Value": "Wed, 08 Jan 2025 14:57:05 GMT"
         },
         {
           "Name": "Cache-Control",

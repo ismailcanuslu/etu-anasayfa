@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETUAnaSayfa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee32d83cf3bcb1fbd0ab0f29bef3db056e8fd21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5b1dced2d6b1911060215e745b18dd6e9572b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETUAnaSayfa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETUAnaSayfa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

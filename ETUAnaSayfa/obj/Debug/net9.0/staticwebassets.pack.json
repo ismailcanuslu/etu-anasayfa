@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets/css/management.css"
     },
     {
+      "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/not-found.css",
+      "PackagePath": "staticwebassets/css/not-found.css"
+    },
+    {
       "Id": "/Users/ismailcanuslu/Documents/GitSource/etu-anasayfa/ETUAnaSayfa/wwwroot/css/privacy.css",
       "PackagePath": "staticwebassets/css/privacy.css"
     },

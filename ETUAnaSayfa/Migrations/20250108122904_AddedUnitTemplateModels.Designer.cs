@@ -4,6 +4,7 @@ using ETUAnaSayfa.Models.Shared;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ETUAnaSayfa.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250108122904_AddedUnitTemplateModels")]
+    partial class AddedUnitTemplateModels
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -303,9 +306,6 @@ namespace ETUAnaSayfa.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Subpath")
-                        .IsUnique();
-
                     b.ToTable("UnitMainPage");
                 });
 
@@ -327,12 +327,7 @@ namespace ETUAnaSayfa.Migrations
                         .HasMaxLength(120)
                         .HasColumnType("nvarchar(120)");
 
-                    b.Property<int>("UnitMainPageId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("UnitMainPageId");
 
                     b.ToTable("UnitMenus");
                 });
@@ -432,10 +427,6 @@ namespace ETUAnaSayfa.Migrations
                     b.Property<int>("UnitMenusId")
                         .HasColumnType("int");
 
-                    b.Property<string>("Url")
-                        .HasMaxLength(700)
-                        .HasColumnType("nvarchar(700)");
-
                     b.HasKey("Id");
 
                     b.HasIndex("UnitMenusId");
@@ -453,17 +444,6 @@ namespace ETUAnaSayfa.Migrations
                 });
 
             modelBuilder.Entity("ETUAnaSayfa.Models.Shared.UnitTemplate.UnitAnnouncements", b =>
-                {
-                    b.HasOne("ETUAnaSayfa.Models.Shared.UnitTemplate.UnitMainPage", "UnitMainPage")
-                        .WithMany()
-                        .HasForeignKey("UnitMainPageId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("UnitMainPage");
-                });
-
-            modelBuilder.Entity("ETUAnaSayfa.Models.Shared.UnitTemplate.UnitMenus", b =>
                 {
                     b.HasOne("ETUAnaSayfa.Models.Shared.UnitTemplate.UnitMainPage", "UnitMainPage")
                         .WithMany()

@@ -4,6 +4,7 @@ using ETUAnaSayfa.Models.Shared;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ETUAnaSayfa.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250108132634_UnitPageChanges")]
+    partial class UnitPageChanges
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -431,10 +434,6 @@ namespace ETUAnaSayfa.Migrations
 
                     b.Property<int>("UnitMenusId")
                         .HasColumnType("int");
-
-                    b.Property<string>("Url")
-                        .HasMaxLength(700)
-                        .HasColumnType("nvarchar(700)");
 
                     b.HasKey("Id");
 

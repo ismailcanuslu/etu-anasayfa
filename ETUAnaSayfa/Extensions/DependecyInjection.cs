@@ -11,6 +11,7 @@ public static class DependecyInjection
     {
         //services.AddScoped<SymposiumRepository>();
         services.AddScoped<IHomeRepository, HomeRepository>();
+        services.AddScoped<IUnitsTemplateRepository, UnitsTemplateRepository>();
         return services;
     }
 
@@ -18,6 +19,7 @@ public static class DependecyInjection
     {
         //services.AddScoped<SymposiumService>();
         services.AddScoped<IHomeService, HomeService>();
+        services.AddScoped<IUnitsTemplateService, UnitsTemplateService>();
         return services;
     }
     

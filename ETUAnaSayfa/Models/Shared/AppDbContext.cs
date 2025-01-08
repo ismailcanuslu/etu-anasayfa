@@ -1,4 +1,5 @@
 using ETUAnaSayfa.Models.Home;
+using ETUAnaSayfa.Models.Shared.UnitTemplate;
 using Microsoft.EntityFrameworkCore;
 
 namespace ETUAnaSayfa.Models.Shared;
@@ -22,6 +23,17 @@ public class AppDbContext : DbContext
     public DbSet<Contact> Contacts { get; set; }
     
     public DbSet<ContactForm> ContactForms { get; set; }
+    
+    /*
+     * UNİT TEMPLATES
+     */
+    
+    public DbSet<UnitMainPage> UnitMainPage { get; set; }
+    public DbSet<UnitAnnouncements> UnitAnnouncements { get; set; }
+    public DbSet<UnitPublications> UnitPublications { get; set; }
+    public DbSet<UnitQuickAccess> UnitQuickAccess { get; set; }
+    public DbSet<UnitMenus> UnitMenus { get; set; }
+    public DbSet<UnitSubMenus> UnitSubMenus { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -131,6 +143,106 @@ public class AppDbContext : DbContext
             entity.Property(e => e.Choices)
                 .IsRequired();
         });
+        
+        /*
+         * UNİTS TEMPLATE
+         */
+
+        modelBuilder.Entity<UnitMainPage>(entity =>
+        {
+            
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(100);
+            entity.Property(e => e.Subpath)
+                .IsRequired()
+                .HasMaxLength(180);
+            entity.HasIndex(x => x.Subpath)
+                .IsUnique();
+        });
+
+        modelBuilder.Entity<UnitQuickAccess>(entity =>
+        {
+            
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(40);
+            entity.Property(e => e.ActionURI)
+                .IsRequired()
+                .HasMaxLength(700);
+        });
+
+        modelBuilder.Entity<UnitAnnouncements>(entity =>
+        {
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(200);
+            entity.Property(e => e.Text)
+                .IsRequired()
+                .HasMaxLength(1200);
+            entity.Property(e => e.Date)
+                .IsRequired();
+            entity.Property(e => e.IsVisible)
+                .IsRequired();
+            entity.Property(e => e.IsPinned)
+                .IsRequired();
+            
+            entity.Ignore(e => e.IsRedirect);
+        });
+        
+        modelBuilder.Entity<UnitPublications>(entity =>
+        {
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(200);
+            entity.Property(e => e.Text)
+                .IsRequired()
+                .HasMaxLength(1200);
+            entity.Property(e => e.Date)
+                .IsRequired();
+            entity.Property(e => e.IsVisible)
+                .IsRequired();
+            entity.Property(e => e.IsPinned)
+                .IsRequired();
+            
+            entity.Ignore(e => e.IsRedirect);
+        });
+
+        modelBuilder.Entity<UnitMenus>(entity =>
+        {
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(120);
+            entity.Property(e => e.IconPath)
+                .IsRequired()
+                .HasMaxLength(120);
+            
+            entity.HasMany(menu => menu.SubMenus)
+                .WithOne(subMenu => subMenu.UnitMenus)
+                .HasForeignKey(subMenu => subMenu.UnitMenusId)
+                .OnDelete(DeleteBehavior.Cascade);
+            
+           
+        });
+
+        modelBuilder.Entity<UnitSubMenus>(entity =>
+        {
+            entity.Property(e => e.Title)
+                .IsRequired()
+                .HasMaxLength(120);
+            entity.Property(e => e.Text)
+                .HasMaxLength(3550);
+            entity.Property(e => e.Link)
+                .HasMaxLength(700);
+            entity.Property(e => e.Text)
+                .HasMaxLength(3550);
+            entity.Property(e => e.Url)
+                .HasMaxLength(700);
+            
+            entity.Ignore(e => e.IsRedirect);
+
+        });
+
 
     }
 }

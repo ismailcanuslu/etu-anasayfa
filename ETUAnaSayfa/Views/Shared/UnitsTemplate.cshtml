@@ -1,0 +1,198 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using ETUAnaSayfa.Extensions
+@model ETUAnaSayfa.ViewModels.UnitsTemplateViewModel
+@{
+    ViewData["Title"] = $"{Model.UnitMainPage.Title} -";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/secretariat.css" asp-append-version="true" />
+}
+
+<!-- Hero Section -->
+<div class="hero-slider">
+    <div class="slider-container">
+        <!-- Slider navigation -->
+        <div class="slider-nav prev"></div>
+        <div class="slider-nav next"></div>
+
+        <!-- Slider content -->
+        <div class="slider-content">
+            <div class="carousel-slide active">
+                <img src="https://erzurum.edu.tr/Content/slider/image/02db5d5a-62dd-4568-b251-dcb80a58d501.jpeg"
+                    alt="ETÜ Slider 1">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://erzurum.edu.tr/Content/slider/image/4d41f7b2-49f5-41d5-8469-2d9d3a038d6a.jpeg"
+                    alt="ETÜ Slider 2">
+            </div>
+        </div>
+
+        <!-- Slider dots -->
+        <div class="slider-dots">
+            <span class="dot active"></span>
+            <span class="dot"></span>
+        </div>
+    </div>
+</div>
+
+<!-- Hızlı Erişim -->
+<div class="section-container">
+    <h2 class="section-title">HIZLI ERİŞİM</h2>
+    <div class="quick-links-grid">
+        @foreach (var quickAccess in Model.UnitQuickAccess)
+        {
+            <a href="@quickAccess.ActionURI" class="quick-link-item">
+                <i class="fas fa-link"></i>
+                <span>@quickAccess.Title</span>
+            </a>
+        }
+    </div>
+</div>
+
+<!-- Duyurular ve Yayınlar -->
+<div class="section-container">
+    <div class="content-grid">
+        <!-- Duyurular -->
+        <div class="announcements">
+            <div class="section-title-wrapper">
+                <h2 class="section-title">DUYURULAR</h2>
+                <div class="title-line"></div>
+            </div>
+            @foreach (var announcement in Model.UnitAnnouncements)
+            {
+                <div class="announcement-item @(announcement.IsPinned ? "pinned" : "")">
+                    <div class="announcement-date">
+                        <div class="date-wrapper">
+                            <i class="far fa-calendar-alt calendar-icon"></i>
+                            <div class="date-text">
+                                <span class="date-number">@announcement.Date.ToString("dd")</span>
+                                <span class="date-month">@announcement.Date.ToString("MMM")</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="announcement-content">
+                        <h3>@announcement.Title</h3>
+                        <p>@(string.IsNullOrEmpty(announcement.Text) ? "devamı..." : announcement.Text)</p>
+                    </div>
+                    @if (announcement.IsPinned)
+                    {
+                        <span class="pinned-badge">
+                            <i class="fas fa-thumbtack"></i>
+                        </span>
+                    }
+                </div>
+            }
+            <div class="pagination">
+                <a href="#" class="@(Model.CurrentPage == 1 ? "active" : "")">1</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+            </div>
+        </div>
+
+        <!-- Yayınlar -->
+        <div class="publications">
+            <div class="section-title-wrapper">
+                <h2 class="section-title">YAYINLAR</h2>
+                <div class="title-line"></div>
+            </div>
+            @foreach (var publication in Model.UnitPublications)
+            {
+                <div class="publication-item @(publication.IsPinned ? "pinned" : "")">
+                    <div class="announcement-date">
+                        <div class="date-wrapper">
+                            <i class="far fa-calendar-alt calendar-icon"></i>
+                            <div class="date-text">
+                                <span class="date-number">@publication.Date.ToString("dd")</span>
+                                <span class="date-month">@publication.Date.ToString("MMM")</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="announcement-content">
+                        <h3>@publication.Title</h3>
+                        <p>@(string.IsNullOrEmpty(publication.Text) ? "devamı..." : publication.Text)</p>
+                    </div>
+                    @if (publication.IsPinned)
+                    {
+                        <span class="pinned-badge">
+                            <i class="fas fa-thumbtack"></i>
+                        </span>
+                    }
+                </div>
+            }
+            <div class="pagination">
+                <a href="#" class="active">1</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Menü Grid -->
+<section class="menu-section">
+    <div class="container">
+        <div class="menu-grid">
+            @foreach (var menu in Model.UnitMenus)
+            {
+                <div class="menu-category">
+                    <h3 class="menu-title"><i class="@menu.IconPath"></i> @menu.Title</h3>
+                    <ul>
+                        @foreach (var subMenu in menu.SubMenus)
+                        {
+                            <li>
+                                @if (!string.IsNullOrEmpty(subMenu.Link))
+                                {
+                                    <a href="/@Model.UnitMainPage.Subpath/@menu.Title.ToSlug()/@subMenu.Title.ToSlug()">@subMenu.Title</a>
+                                }
+                                else
+                                {
+                                    <a href="#" onclick="showContent('@subMenu.Text')">@subMenu.Title</a>
+                                }
+                            </li>
+                        }
+                        @if (menu.SubMenus.Count > 4)
+                        {
+                            <li><a class="more-link" href="#">Daha Fazla</a></li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const slides = document.querySelectorAll('.carousel-slide');
+            const dots = document.querySelectorAll('.dot');
+            const prevBtn = document.querySelector('.slider-nav.prev');
+            const nextBtn = document.querySelector('.slider-nav.next');
+            let currentSlide = 0;
+
+            function showSlide(n) {
+                slides[currentSlide].classList.remove('active');
+                dots[currentSlide].classList.remove('active');
+                currentSlide = (n + slides.length) % slides.length;
+                slides[currentSlide].classList.add('active');
+                dots[currentSlide].classList.add('active');
+            }
+
+            prevBtn.addEventListener('click', () => showSlide(currentSlide - 1));
+            nextBtn.addEventListener('click', () => showSlide(currentSlide + 1));
+
+            dots.forEach((dot, index) => {
+                dot.addEventListener('click', () => showSlide(index));
+            });
+
+            setInterval(() => showSlide(currentSlide + 1), 5000);
+        });
+
+        function showContent(text) {
+            if (text) {
+                alert(text); // Geçici olarak alert kullanıyoruz, modal veya başka bir gösterim şekli kullanılabilir
+            }
+        }
+    </script>
+}
